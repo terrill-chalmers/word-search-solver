@@ -22,8 +22,8 @@
   "homepage": "https://github.com/terrill-chalmers/word-search-solver#readme",
   "devDependencies": {
     "eslint": "^6.6.0",
-    "jest": "^24.9.0",
-    "lodash": "^4.17.15",
+    "jest": "^26.4.2",
+    "lodash": "^4.17.20",
     "prettier": "^1.19.1"
   }
 }

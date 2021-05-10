@@ -23,7 +23,7 @@
   "devDependencies": {
     "eslint": "^6.6.0",
     "jest": "^26.4.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "prettier": "^1.19.1"
   }
 }
